@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "sendperp",
+  "VITE_ORDERLY_BROKER_NAME": "Sendperp",
   "VITE_BROKER_EOA_ADDRESS": "0x200ac7978551f5f2240c60eb73a5186d26bdaab9",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "",
-  "VITE_APP_NAME": "sendperp",
+  "VITE_APP_NAME": "Sendperp",
   "VITE_APP_DESCRIPTION": "Send It. Perp It.",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
